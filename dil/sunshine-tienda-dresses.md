@@ -1,0 +1,64 @@
+# Sunshine Tienda — in-stock dresses (checked on her store, 16 Oct 2026)
+
+58 in stock. Colour/pattern is from each product's own name and description.
+
+- Apricot Colorful Stripe Khai Mini Dress
+- Blue Bay Gingham Charlotte Dress
+- Blue Bay Gingham Kids Rio Dress
+- Blue Bay Gingham Marine Dress
+- Blue Bay Gingham Oasis Dress
+- Blue Bay Gingham Penny Dress
+- Blue Palm Geo Ace Dress
+- Blue Palm Geo Grotto Dress
+- Blue Palm Geo Mara Dress — our signature palm print in a coastal blue and
+- Cabernet Gingham Jane Dress
+- Cabernet Gingham Oasis Dress
+- Cabernet Gingham Pippa Dress — rich gingham print
+- Castaway Stripe Cleo Dress
+- Cherry Pinstripe Ace Dress
+- Citron Gilded Palm Khai Mini Dress — vibrant yellow hues adorned with intricate palm motifs
+- Coastal Daisies Charlotte Dress
+- Coastal Daisies Penny Dress
+- Colorful Daydreamer Khai Mini Dress — vibrant stripes in cheerful yellow
+- Confetti Stripe Juno Dress — cheerful stripes and a relaxed
+- Denim Eyelet Marlowe Dress — beautiful tonal eyelet pattern
+- Fruit Stripe Camilla Dress
+- Gold Palm Geo with Gold Dot Capri Dress
+- Green and White Stripe Sienna Dress
+- Harbor Plaid Charlotte Dress
+- Harbor Plaid Eloise Dress
+- Harbor Plaid Pippa Dress — vibrant plaid that captures the spirit of s
+- Harvest Blooms Charlotte Dress
+- Harvest Blooms Pippa Dress — vibrant floral print
+- Ivory Eyelet Charlotte Dress — flowing maxi silhouette in lightweight cotton with delicate eyelet detaili
+- Ivory Eyelet Penny Dress — relaxed babydoll silhouette in lightweight cotton poplin with delicate eyelet
+- Ivory Shell Capri Dress
+- Kids Confetti Stripe Juno Dress — the Kids Confetti Stripe Juno Dress
+- Lemonade Shell Camilla Dress
+- Navy Gingham Getaway Mini Dress — timeless navy gingham print
+- Olive Bandana Getaway Mini Dress — our Olive Bandana print
+- Olive Bandana Sienna Dress
+- Olive Noa Dress
+- Orchid Pinstripe Beatriz Dress
+- Orchid Pinstripe Grotto Dress
+- Painted Gingham Hadley Dress — soft gingham print
+- Painted Gingham Marlowe Dress — fresh gingham print
+- Painted Gingham Oasis Dress — cotton in a warm painted gingham print
+- Painted Gingham Quinn Dress
+- Paradise Floral Getaway Mini Dress — lively yellow and teal floral print
+- Patchwork Palm Capri Dress
+- Patchwork Palm Kids Rio Dress
+- Pink Lemonade Tile Ace Dress
+- Pink Lemonade Tile Grotto Dress
+- Pomegranate Floral Charlotte Dress
+- Puerto Stripe Caftan
+- Rainbow Plaid Getaway Mini Dress
+- Rainbow Plaid Kids Rio Dress
+- Rainbow Plaid Oasis Dress
+- Rose Gilded Palm Khai Mini Dress — intricate ivory palm design on a soft rose background
+- Summer Camp Geo Oasis Dress
+- Summer Poppy Camilla Dress
+- Sunkissed Stripe Reef Dress — vibrant yellow and pink stripes with a flattering tie detail and adjustable straps
+- Toucan Pompano Dress — tropical-inspired print and ruffled straps
+
+Couldn't read on her store (left out): Vintage Stripe Charlotte Dress, Vintage Stripe Eloise Dress, Vintage Stripe Marlowe Dress, Viridian Tile Pippa Dress, Wavy Stripe Oasis Dress, Wavy Stripe Quinn Dress, Wildflower Tango Cleo Dress, Wildflower Tango Lilly Dress
