@@ -1,0 +1,27 @@
+Brand of the Week: Sunshine Tienda (week of Nov 2, 2026)
+Exported 20 Oct 2026 from The Switch catalogue, full original files, never cropped or resized.
+Product images are each product's catalogue image (the brand's own Shopify file). The founder photo is the original upload kept in The Switch's storage.
+
+founder.jpg (Laura & Amanda Ernst, 211x239)
+  brand page: https://switchme.io/brands/sunshine-tienda
+  file: https://zxouvdaikmixjnxmpwxt.supabase.co/storage/v1/object/public/brand-founders/sunshine-tienda-1792194216273-original.jpg
+
+pippa-cabernet.png (Cabernet Gingham Pippa Dress, 1222x1222)
+  product page: https://www.sunshinetienda.com/products/cabernet-gingham-pippa-dress
+  file: https://cdn.shopify.com/s/files/1/0642/7243/files/sunshine-tienda-cabernet-gingham-pippa-dress-1229610978.png?v=1774656429
+
+penny-ivory.png (Ivory Eyelet Penny Dress, 1242x1241)
+  product page: https://www.sunshinetienda.com/products/ivory-eyelet-penny-dress
+  file: https://cdn.shopify.com/s/files/1/0642/7243/files/sunshine-tienda-ivory-eyelet-penny-dress-1234977869.png?v=1777575190
+
+caftan-puerto.jpg (Puerto Stripe Caftan, 1024x1024)
+  product page: https://www.sunshinetienda.com/products/puerto-stripe-caftan
+  file: https://cdn.shopify.com/s/files/1/0642/7243/files/sunshine-tienda-puerto-stripe-caftan-1171945159.jpg?v=1751801703
+
+juno-kids.png (Kids Confetti Stripe Juno Dress, 2000x2000)
+  product page: https://www.sunshinetienda.com/products/kids-confetti-stripe-juno-dress
+  file: https://cdn.shopify.com/s/files/1/0642/7243/files/sunshine-tienda-kids-confetti-stripe-juno-dress-1255279917.png?v=1787257632
+
+jane-cabernet.png (Cabernet Gingham Jane Dress, 1121x1121; the shop's page address still says "marine")
+  product page: https://www.sunshinetienda.com/products/cabernet-gingham-marine-dress
+  file: https://cdn.shopify.com/s/files/1/0642/7243/files/sunshine-tienda-cabernet-gingham-marine-dress-1229610961.png?v=1774655467
