@@ -6,3 +6,10 @@ logo.svg     — the brand's own original vector logo: https://eriness.com/cdn/s
 logo.png     — that SVG rendered at 2040x360 on a transparent background (same artwork, nothing cropped).
 logo.jpg     — the 800x800 logo image as stored in The Switch.
 products.csv — every LIVE, in-stock Eriness product on The Switch (sold-out ones skipped): name, price, product type, product page, image URL.
+
+Product images (added 21 Oct 2026 — Pamela's 5 picks), each the brand's original image file, full size, not cropped; all five live and in stock on The Switch and on eriness.com when exported:
+studs-diamond-bezel.jpg  — Diamond Bezel Set Studs (1400x1400) — https://eriness.com/products/diamond-bezel-set-studs
+polish-red.jpg           — Eriness Red Nail Polish (1400x1400) — https://eriness.com/products/eriness-red-nail-polish
+ear-cuff-ruby.jpg        — Ruby Ear Cuff (1200x1200) — https://eriness.com/products/ruby-ear-cuff
+bracelet-ladybug.jpg     — Multi Colored Crawling Ladybug Bracelet (1200x1200) — https://eriness.com/products/multi-colored-crawling-ladybug-bracelet
+hoops-mini-gold.jpg      — Mini Gold Party Hoops (1400x1400) — https://eriness.com/products/mini-gold-party-hoops
