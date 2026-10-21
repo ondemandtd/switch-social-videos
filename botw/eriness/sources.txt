@@ -1,0 +1,8 @@
+Brand of the Week #2: Eriness Jewelry (posts Nov 9, 11, 13, 2026)
+Exported 21 Oct 2026 from The Switch catalogue, read-only. Founder: Erin Sachse.
+
+founder.jpg  — 1080x1080, the founder photo as uploaded to The Switch (the largest we hold; no larger original is stored), not cropped.
+logo.svg     — the brand's own original vector logo: https://eriness.com/cdn/shop/files/Eriness-logo.svg?v=1779995134
+logo.png     — that SVG rendered at 2040x360 on a transparent background (same artwork, nothing cropped).
+logo.jpg     — the 800x800 logo image as stored in The Switch.
+products.csv — every LIVE, in-stock Eriness product on The Switch (sold-out ones skipped): name, price, product type, product page, image URL.
