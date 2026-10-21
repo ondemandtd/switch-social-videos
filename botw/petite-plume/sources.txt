@@ -1,0 +1,7 @@
+Brand of the Week #3: Petite Plume (posts Nov 16, 18, 20, 2026)
+Exported 21 Oct 2026 from The Switch catalogue and the brand's own site, read-only. Founder on our record: Emily Hikade.
+
+No founder photo: The Switch has none on file, and Petite Plume's About page (https://www.petite-plume.com/pages/about-us-1) shows no photo of her. So the logo is used.
+logo.png     — the brand's own original logo file, full size: https://www.petite-plume.com/cdn/shop/files/PPNavyLogo_feather_web_1.png?v=1728051402
+logo.jpg     — the logo as stored in The Switch.
+products.csv — every LIVE, in-stock Petite Plume product on The Switch (sold out and not-yet-checked skipped): name, price, product type, product page, image URL.
