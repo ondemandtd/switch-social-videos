@@ -25,3 +25,6 @@ juno-kids.png (Kids Confetti Stripe Juno Dress, 2000x2000)
 jane-cabernet.png (Cabernet Gingham Jane Dress, 1121x1121; the shop's page address still says "marine")
   product page: https://www.sunshinetienda.com/products/cabernet-gingham-marine-dress
   file: https://cdn.shopify.com/s/files/1/0642/7243/files/sunshine-tienda-cabernet-gingham-marine-dress-1229610961.png?v=1774655467
+
+
+Added 21 Oct 2026: pippa-cabernet.jpg, penny-ivory.jpg, juno-kids.jpg, jane-cabernet.jpg — full-size JPEG copies (quality 100, no chroma subsampling) of the brand's original PNG files above, same pixels and dimensions, not cropped or resized. The .png originals are kept.
