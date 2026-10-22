@@ -1,0 +1,225 @@
+{
+  "chapter": "02-menu-tour-desktop",
+  "recorded_at": "2026-10-22T11:58:34.489Z",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "device_scale_factor": 1,
+  "signed_in_as": "Team member (switch_editor) — pretend sign-in, fictional data",
+  "network": {
+    "answered_hosts": [
+      "127.0.0.1:5199"
+    ],
+    "outbound_attempts": [],
+    "refused_in_page": [],
+    "unanswered_mock_calls": []
+  },
+  "page_errors": [],
+  "steps": [
+    {
+      "t_seconds": 2.5,
+      "action": "open",
+      "target": "/admin",
+      "on_screen": "The page opens"
+    },
+    {
+      "t_seconds": 2.5,
+      "action": "look",
+      "target": "Admin → Overview",
+      "on_screen": "Signed in as Team member, on Overview. The menu is on the left"
+    },
+    {
+      "t_seconds": 3.5,
+      "action": "point",
+      "target": "Overview",
+      "on_screen": "Overview — top-line health of The Switch: auto-publish, stock, the funnel, sign-ups, sales, held clicks, Claude spend"
+    },
+    {
+      "t_seconds": 6.1,
+      "action": "point",
+      "target": "Analytics",
+      "on_screen": "Analytics — The Switch's own numbers: reach, switches, money, match quality (counts only)"
+    },
+    {
+      "t_seconds": 8.6,
+      "action": "point",
+      "target": "The Switch",
+      "on_screen": "The Switch — the working area: Requests, Add a brand, Brands, Brand check, Providers and the rest"
+    },
+    {
+      "t_seconds": 11.2,
+      "action": "point",
+      "target": "The Switch Society →",
+      "on_screen": "The Switch Society → — a link out to the Society site"
+    },
+    {
+      "t_seconds": 13.7,
+      "action": "point",
+      "target": "Needs attention",
+      "on_screen": "Needs attention — everything waiting on a person; the badge is the same number as the page"
+    },
+    {
+      "t_seconds": 16.3,
+      "action": "point",
+      "target": "Switch outreach",
+      "on_screen": "Switch outreach — brands we're contacting, and the emails"
+    },
+    {
+      "t_seconds": 18.8,
+      "action": "point",
+      "target": "Places",
+      "on_screen": "Places — local businesses that applied at switchme.io/apply/local"
+    },
+    {
+      "t_seconds": 21.4,
+      "action": "point",
+      "target": "Growth",
+      "on_screen": "Growth — growth work and the brands each person sourced"
+    },
+    {
+      "t_seconds": 23.9,
+      "action": "point",
+      "target": "Lists (new)",
+      "on_screen": "Lists — products, product types, brands, requests and term review as lists"
+    },
+    {
+      "t_seconds": 26.5,
+      "action": "point",
+      "target": "The Switch Society",
+      "on_screen": "The Switch Society — the Society's settings"
+    },
+    {
+      "t_seconds": 29,
+      "action": "point",
+      "target": "Back to home",
+      "on_screen": "Back to home returns to the public site"
+    },
+    {
+      "t_seconds": 32.3,
+      "action": "click",
+      "target": "Overview",
+      "on_screen": "Overview"
+    },
+    {
+      "t_seconds": 32.9,
+      "action": "point",
+      "target": "Auto-publish",
+      "on_screen": "Auto-publish: whether Ready products publish by themselves, and what published today"
+    },
+    {
+      "t_seconds": 36,
+      "action": "point",
+      "target": "Turn on… (greyed)",
+      "on_screen": "Greyed for a team member, with the reason beside it: only the owner can turn this on or off"
+    },
+    {
+      "t_seconds": 39.7,
+      "action": "point",
+      "target": "Out of stock",
+      "on_screen": "Out of stock: products the nightly check hid from browse"
+    },
+    {
+      "t_seconds": 42.2,
+      "action": "point",
+      "target": "Funnel",
+      "on_screen": "Funnel, last 7 days: visits → Get the app → sign-ups → extension → pledges → switches"
+    },
+    {
+      "t_seconds": 45.2,
+      "action": "point",
+      "target": "Launch sign-ups",
+      "on_screen": "Launch sign-ups per day and where they came from"
+    },
+    {
+      "t_seconds": 48.9,
+      "action": "scroll",
+      "target": "down",
+      "on_screen": "Further down: Awin sales, Held clicks and Claude spend"
+    },
+    {
+      "t_seconds": 49.5,
+      "action": "point",
+      "target": "Awin sales",
+      "on_screen": "Awin sales from the daily sync"
+    },
+    {
+      "t_seconds": 51.9,
+      "action": "point",
+      "target": "change the limits (greyed)",
+      "on_screen": "A setting: greyed for a team member — only the owner changes these limits"
+    },
+    {
+      "t_seconds": 55.3,
+      "action": "point",
+      "target": "change the cap (greyed)",
+      "on_screen": "Claude spend today; the cap is the owner's to change"
+    },
+    {
+      "t_seconds": 59.3,
+      "action": "scroll",
+      "target": "to the top",
+      "on_screen": "Back to the top"
+    },
+    {
+      "t_seconds": 61.5,
+      "action": "click",
+      "target": "Needs attention",
+      "on_screen": "Needs attention: everything waiting on a person, in four groups"
+    },
+    {
+      "t_seconds": 62.1,
+      "action": "point",
+      "target": "Headline",
+      "on_screen": "The headline count is the same number as the badge in the menu"
+    },
+    {
+      "t_seconds": 64.9,
+      "action": "point",
+      "target": "Shopper requests",
+      "on_screen": "Shopper requests: shoppers waiting for a product we don't have yet"
+    },
+    {
+      "t_seconds": 68.1,
+      "action": "point",
+      "target": "Open the request",
+      "on_screen": "Each card has one main button that goes straight to the fix"
+    },
+    {
+      "t_seconds": 70.9,
+      "action": "point",
+      "target": "Brands to review",
+      "on_screen": "Brands to review: a draft brand that is ready to publish"
+    },
+    {
+      "t_seconds": 73.7,
+      "action": "point",
+      "target": "Products to approve",
+      "on_screen": "Products to approve: Ready products not published yet"
+    },
+    {
+      "t_seconds": 77.6,
+      "action": "scroll",
+      "target": "down",
+      "on_screen": "Problems, and the housekeeping line at the bottom"
+    },
+    {
+      "t_seconds": 78.2,
+      "action": "point",
+      "target": "Problems",
+      "on_screen": "Problems: a live brand with something missing (here, a logo)"
+    },
+    {
+      "t_seconds": 82,
+      "action": "click",
+      "target": "Housekeeping (Show)",
+      "on_screen": "Housekeeping: things that need no person, shown for reference"
+    },
+    {
+      "t_seconds": 83.6,
+      "action": "scroll",
+      "target": "to the top",
+      "on_screen": "Back to the top of Needs attention"
+    }
+  ]
+}

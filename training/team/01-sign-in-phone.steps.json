@@ -1,0 +1,93 @@
+{
+  "chapter": "01-sign-in-phone",
+  "recorded_at": "2026-10-22T12:03:39.081Z",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "device_scale_factor": 2,
+  "signed_in_as": "Team member (switch_editor) — pretend sign-in, fictional data",
+  "network": {
+    "answered_hosts": [
+      "127.0.0.1:5199"
+    ],
+    "outbound_attempts": [],
+    "refused_in_page": [],
+    "unanswered_mock_calls": []
+  },
+  "page_errors": [],
+  "steps": [
+    {
+      "t_seconds": 2.4,
+      "action": "open",
+      "target": "/",
+      "on_screen": "The page opens"
+    },
+    {
+      "t_seconds": 2.4,
+      "action": "look",
+      "target": "switchme.io on a phone",
+      "on_screen": "The Switch site on a phone, signed out"
+    },
+    {
+      "t_seconds": 4.2,
+      "action": "click",
+      "target": "Menu (☰, top right)",
+      "on_screen": "The site menu opens; Sign in is at the bottom"
+    },
+    {
+      "t_seconds": 6,
+      "action": "click",
+      "target": "Sign in",
+      "on_screen": "The sign-in page"
+    },
+    {
+      "t_seconds": 6.6,
+      "action": "point",
+      "target": "Continue with Google",
+      "on_screen": "Continue with Google is one way in; this demo uses email and password"
+    },
+    {
+      "t_seconds": 10.2,
+      "action": "click",
+      "target": "Email box",
+      "on_screen": "Clicked into Email box"
+    },
+    {
+      "t_seconds": 11.9,
+      "action": "type",
+      "target": "Email box",
+      "on_screen": "Typed the email address (a demo address)"
+    },
+    {
+      "t_seconds": 13.5,
+      "action": "click",
+      "target": "Password box",
+      "on_screen": "Clicked into Password box"
+    },
+    {
+      "t_seconds": 15.2,
+      "action": "type",
+      "target": "Password box",
+      "on_screen": "Typed the password; it shows as dots"
+    },
+    {
+      "t_seconds": 16.8,
+      "action": "click",
+      "target": "Sign in button",
+      "on_screen": "Signed in: the admin opens on Overview, phone layout"
+    },
+    {
+      "t_seconds": 18.8,
+      "action": "point",
+      "target": "☰ Menu (top left)",
+      "on_screen": "☰ Menu opens the whole admin menu"
+    },
+    {
+      "t_seconds": 21.5,
+      "action": "point",
+      "target": "Bottom bar",
+      "on_screen": "Four shortcuts: Overview, Needs attention, Brand check, Brands"
+    }
+  ]
+}

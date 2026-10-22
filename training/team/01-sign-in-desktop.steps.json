@@ -1,0 +1,93 @@
+{
+  "chapter": "01-sign-in-desktop",
+  "recorded_at": "2026-10-22T11:56:31.836Z",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "device_scale_factor": 1,
+  "signed_in_as": "Team member (switch_editor) — pretend sign-in, fictional data",
+  "network": {
+    "answered_hosts": [
+      "127.0.0.1:5199"
+    ],
+    "outbound_attempts": [],
+    "refused_in_page": [],
+    "unanswered_mock_calls": []
+  },
+  "page_errors": [],
+  "steps": [
+    {
+      "t_seconds": 2.5,
+      "action": "open",
+      "target": "/",
+      "on_screen": "The page opens"
+    },
+    {
+      "t_seconds": 2.5,
+      "action": "look",
+      "target": "switchme.io",
+      "on_screen": "The Switch site, signed out. The bar at the top ends with Sign in"
+    },
+    {
+      "t_seconds": 3.5,
+      "action": "point",
+      "target": "Sign in (top bar)",
+      "on_screen": "Sign in is the last item in the top bar"
+    },
+    {
+      "t_seconds": 6.7,
+      "action": "click",
+      "target": "Sign in (top bar)",
+      "on_screen": "The sign-in page: Continue with Google, or email and password"
+    },
+    {
+      "t_seconds": 7.7,
+      "action": "point",
+      "target": "Continue with Google",
+      "on_screen": "Continue with Google is one way in; this demo uses the email and password boxes"
+    },
+    {
+      "t_seconds": 11.5,
+      "action": "click",
+      "target": "Email box",
+      "on_screen": "Clicked into Email box"
+    },
+    {
+      "t_seconds": 13.2,
+      "action": "type",
+      "target": "Email box",
+      "on_screen": "Typed the email address (a demo address)"
+    },
+    {
+      "t_seconds": 14.8,
+      "action": "click",
+      "target": "Password box",
+      "on_screen": "Clicked into Password box"
+    },
+    {
+      "t_seconds": 16.4,
+      "action": "type",
+      "target": "Password box",
+      "on_screen": "Typed the password; it shows as dots"
+    },
+    {
+      "t_seconds": 18.1,
+      "action": "click",
+      "target": "Sign in button",
+      "on_screen": "Signed in: the admin opens on Overview"
+    },
+    {
+      "t_seconds": 20.3,
+      "action": "point",
+      "target": "Team member (top right)",
+      "on_screen": "Signed in as Team member; this menu has Sign out"
+    },
+    {
+      "t_seconds": 23.6,
+      "action": "point",
+      "target": "Admin menu (left)",
+      "on_screen": "The admin menu on the left; Overview is open"
+    }
+  ]
+}

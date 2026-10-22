@@ -1,0 +1,117 @@
+{
+  "chapter": "02-menu-tour-phone",
+  "recorded_at": "2026-10-22T12:04:14.241Z",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "device_scale_factor": 2,
+  "signed_in_as": "Team member (switch_editor) — pretend sign-in, fictional data",
+  "network": {
+    "answered_hosts": [
+      "127.0.0.1:5199"
+    ],
+    "outbound_attempts": [],
+    "refused_in_page": [],
+    "unanswered_mock_calls": []
+  },
+  "page_errors": [],
+  "steps": [
+    {
+      "t_seconds": 2.4,
+      "action": "open",
+      "target": "/admin",
+      "on_screen": "The page opens"
+    },
+    {
+      "t_seconds": 2.4,
+      "action": "look",
+      "target": "Admin on a phone",
+      "on_screen": "The admin on a phone: ☰ Menu at the top, four shortcuts at the bottom"
+    },
+    {
+      "t_seconds": 4.1,
+      "action": "click",
+      "target": "☰ Menu",
+      "on_screen": "The whole admin menu slides out"
+    },
+    {
+      "t_seconds": 4.7,
+      "action": "point",
+      "target": "Overview",
+      "on_screen": "Overview — top-line health of The Switch: auto-publish, stock, the funnel, sign-ups, sales, held clicks, Claude spend"
+    },
+    {
+      "t_seconds": 6.7,
+      "action": "point",
+      "target": "Analytics",
+      "on_screen": "Analytics — The Switch's own numbers: reach, switches, money, match quality (counts only)"
+    },
+    {
+      "t_seconds": 8.8,
+      "action": "point",
+      "target": "The Switch",
+      "on_screen": "The Switch — the working area: Requests, Add a brand, Brands, Brand check, Providers and the rest"
+    },
+    {
+      "t_seconds": 10.8,
+      "action": "point",
+      "target": "The Switch Society →",
+      "on_screen": "The Switch Society → — a link out to the Society site"
+    },
+    {
+      "t_seconds": 12.9,
+      "action": "point",
+      "target": "Needs attention",
+      "on_screen": "Needs attention — everything waiting on a person; the badge is the same number as the page"
+    },
+    {
+      "t_seconds": 16,
+      "action": "click",
+      "target": "Overview",
+      "on_screen": "The menu closes on Overview"
+    },
+    {
+      "t_seconds": 17.8,
+      "action": "scroll",
+      "target": "down",
+      "on_screen": "Overview on a phone: each line stacks"
+    },
+    {
+      "t_seconds": 19.6,
+      "action": "scroll",
+      "target": "down",
+      "on_screen": "Further down Overview"
+    },
+    {
+      "t_seconds": 21.4,
+      "action": "scroll",
+      "target": "to the top",
+      "on_screen": "Back to the top"
+    },
+    {
+      "t_seconds": 23.5,
+      "action": "click",
+      "target": "Needs attention (bottom bar)",
+      "on_screen": "Needs attention from the bottom bar"
+    },
+    {
+      "t_seconds": 25.4,
+      "action": "scroll",
+      "target": "down",
+      "on_screen": "The cards, one under another"
+    },
+    {
+      "t_seconds": 27.2,
+      "action": "scroll",
+      "target": "down",
+      "on_screen": "More cards"
+    },
+    {
+      "t_seconds": 29,
+      "action": "scroll",
+      "target": "to the top",
+      "on_screen": "Back to the top"
+    }
+  ]
+}
