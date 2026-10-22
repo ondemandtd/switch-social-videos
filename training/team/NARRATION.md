@@ -91,7 +91,7 @@ Calm narrator, generic (no names). Times are when each line starts, matched to t
 - **1:20** Under the table, choose her category. You can use the suggestion.
 - **1:27** Step five, Review and publish. Everything is in one list.
 - **1:29** Green means done. Grey means optional.
-- **1:36** Choose to send the owner certification invitation after publishing. That's the usual choice.
+- **1:36** The owner certification invitation goes out once the brand is live. If the button is greyed out for you, the owner sends it.
 - **1:40** Publish checks everything one more time, then her products go live.
 - **1:43** And that's it.
 - **1:47** Her products are published, and the brand now shows as live. In this demo, nothing really went live.
