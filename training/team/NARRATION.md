@@ -2,6 +2,9 @@
 
 Calm narrator, generic (no names). Times are when each line starts, matched to the recording. Captions use the same words (the `.vtt` file beside each video).
 
+
+> **22 Oct — chapters 5, 6 and 7 re-recorded for "Check her first" (Step 0).** New: `05-check-her-first`, `06-add-a-brand`, `07-add-a-provider` (each starts at Step 0). The 6 and 7 lines below are for the OLD recordings (now in `old/`). The new chapters' `.vtt` captions are the on-screen step lines, timed to the recording — a narration script and voice for them come next, for approval first. `final/` still holds the old assembled 6 and 7.
+
 ---
 
 ## Chapter 1 · Signing in (desktop, 0:28)

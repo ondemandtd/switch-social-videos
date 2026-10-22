@@ -1,58 +1,91 @@
 WEBVTT
 
-00:00:02.000 --> 00:00:05.000
-Service providers are women-owned businesses that offer a service, verified just like brands.
+00:00:02.600 --> 00:00:04.700
+Start in the admin
 
-00:00:05.000 --> 00:00:07.000
-Open The Switch, then the Providers tab.
+00:00:04.700 --> 00:00:06.800
+The Switch opens
 
-00:00:07.000 --> 00:00:12.000
-The list shows each provider, whether she's a draft or live, and whether she's verified.
+00:00:06.800 --> 00:00:08.500
+Providers: women-owned service businesses, verified like brands
 
-00:00:12.000 --> 00:00:14.000
-Press Add provider.
+00:00:08.500 --> 00:00:10.600
+Add provider starts with Step 0 · Check her too
 
-00:00:14.000 --> 00:00:17.000
-Type the business name.
+00:00:10.600 --> 00:00:12.700
+Clicked into Business name
 
-00:00:17.000 --> 00:00:19.000
-Choose the kind of service.
+00:00:12.700 --> 00:00:14.300
+Typed the business name
 
-00:00:19.000 --> 00:00:25.000
-List what she does.
+00:00:14.300 --> 00:00:15.700
+Clicked into City
 
-00:00:25.000 --> 00:00:31.000
-Add her story, using only what she wrote or approved.
+00:00:15.700 --> 00:00:17.400
+Typed her city
 
-00:00:31.000 --> 00:00:37.000
-Then where she works: her city and state.
+00:00:17.400 --> 00:00:19.000
+Chose her state: Colorado — it tells her apart from others with the same name
 
-00:00:37.000 --> 00:00:41.000
-And her website, so shoppers can reach her.
+00:00:19.000 --> 00:00:20.000
+Chose the kind of service (optional here) — or “+ New kind…”
 
-00:00:41.000 --> 00:00:42.500
-Ownership details are for admins only, and they're needed to publish.
+00:00:20.000 --> 00:00:24.400
+Her website, if she has one. Without it, one small search finds it by name and city
 
-00:00:42.000 --> 00:00:46.000
-Published stays greyed out until everything is in. The line under it tells you exactly what's missing.
+00:00:24.400 --> 00:00:29.300
+The duplicate check, then the Screen
 
-00:00:46.000 --> 00:00:49.000
-Enter the owner's full name.
+00:00:29.300 --> 00:00:33.500
+Likely women-owned — unlocked. You still confirm her ownership
 
-00:00:49.000 --> 00:00:52.000
-The date you checked.
+00:00:33.500 --> 00:00:35.300
+The provider form opens on her hidden draft, filled in from the check
 
-00:00:52.000 --> 00:00:54.000
-The kind of evidence.
+00:00:35.300 --> 00:00:39.800
+Name, kind, city and state, her site and the evidence came from the check
 
-00:00:54.000 --> 00:00:57.000
-And where you saw it.
+00:00:39.800 --> 00:00:43.200
+Clicked into What she does
 
-00:00:57.000 --> 00:01:03.000
-Now every requirement is met, so Published can be ticked.
+00:00:43.200 --> 00:00:44.800
+Typed her specialties, comma-separated
 
-00:01:03.000 --> 00:01:05.000
-Press Add.
+00:00:44.800 --> 00:00:49.000
+Clicked into Her story
 
-00:01:05.000 --> 00:01:12.000
-And she's in the list, live and verified. In this demo, nothing really went live.
+00:00:49.000 --> 00:00:50.800
+Her story — only what she wrote or approved
+
+00:00:50.800 --> 00:00:51.700
+Ownership: admin-only, and needed to publish
+
+00:00:51.700 --> 00:00:55.900
+Published stays off until everything is in — the line under it says what's missing
+
+00:00:55.900 --> 00:00:57.300
+Clicked into Owner's full name
+
+00:00:57.300 --> 00:00:59.100
+Typed the owner's full name
+
+00:00:59.100 --> 00:01:00.500
+Verified on: the day you checked
+
+00:01:00.500 --> 00:01:03.100
+The evidence link came from the check
+
+00:01:03.100 --> 00:01:06.500
+Published can be ticked now: every requirement is met
+
+00:01:06.500 --> 00:01:08.700
+Ticked Published
+
+00:01:08.700 --> 00:01:11.700
+Saved
+
+00:01:11.700 --> 00:01:12.800
+The list, with the new provider
+
+00:01:12.800 --> 00:01:18.240
+The new provider is in the list. In this demo, nothing really went live

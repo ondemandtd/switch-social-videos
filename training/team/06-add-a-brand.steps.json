@@ -1,6 +1,6 @@
 {
   "chapter": "06-add-a-brand",
-  "recorded_at": "2026-10-22T12:01:15.506Z",
+  "recorded_at": "2026-10-22T14:58:58.123Z",
   "viewport": {
     "width": 1920,
     "height": 1080
@@ -13,279 +13,247 @@
     ],
     "outbound_attempts": [],
     "refused_in_page": [],
-    "unanswered_mock_calls": []
+    "unanswered_mock_calls": [
+      "table select swap_brand_autofill",
+      "rpc admin_android_live",
+      "rpc admin_site_hook_state"
+    ]
   },
   "page_errors": [],
   "steps": [
     {
-      "t_seconds": 2.5,
+      "t_seconds": 2.6,
       "action": "open",
       "target": "/admin",
       "on_screen": "The page opens"
     },
     {
-      "t_seconds": 2.5,
+      "t_seconds": 2.6,
       "action": "look",
       "target": "Admin → Overview",
       "on_screen": "Start in the admin"
     },
     {
-      "t_seconds": 4.6,
+      "t_seconds": 4.9,
       "action": "click",
       "target": "The Switch (menu)",
       "on_screen": "The Switch opens, with its tabs across the top"
     },
     {
-      "t_seconds": 6.5,
+      "t_seconds": 6.9,
       "action": "click",
       "target": "Add a brand (tab)",
-      "on_screen": "Add a brand: five steps — Brand, Owner & proof, Shopping, Products, Review & publish"
+      "on_screen": "Add a brand starts with Step 0 · Check her"
     },
     {
-      "t_seconds": 8.4,
+      "t_seconds": 8.8,
       "action": "click",
-      "target": "Website",
-      "on_screen": "Clicked into Website"
+      "target": "Her website",
+      "on_screen": "Clicked into Her website"
     },
     {
-      "t_seconds": 10.9,
+      "t_seconds": 11.2,
       "action": "type",
-      "target": "Website",
+      "target": "Her website",
       "on_screen": "Typed the brand's website"
     },
     {
-      "t_seconds": 13.1,
+      "t_seconds": 13.4,
       "action": "click",
-      "target": "Fetch",
-      "on_screen": "Fetch reads her store: it finds the store, reads the catalogue, checks Awin"
+      "target": "Check her",
+      "on_screen": "The duplicate check, then the Screen — about a third of a cent"
     },
     {
-      "t_seconds": 17.5,
+      "t_seconds": 18.5,
+      "action": "point",
+      "target": "Likely women-owned",
+      "on_screen": "Likely women-owned: her own site names a woman founder who still owns it"
+    },
+    {
+      "t_seconds": 21.6,
+      "action": "point",
+      "target": "Unlocked",
+      "on_screen": "Unlocked — but you still confirm her ownership in Owner and proof"
+    },
+    {
+      "t_seconds": 25.7,
+      "action": "click",
+      "target": "Start onboarding →",
+      "on_screen": "Start onboarding makes a hidden draft and opens step 1"
+    },
+    {
+      "t_seconds": 30.3,
+      "action": "point",
+      "target": "Check her: passed",
+      "on_screen": "Step 0 is done"
+    },
+    {
+      "t_seconds": 32.5,
       "action": "point",
       "target": "Fetch results",
-      "on_screen": "Found 4 products (waiting at step 4); Awin doesn't know this domain"
+      "on_screen": "Fetch ran by itself: 4 products wait at step 4; Awin doesn't know this domain"
     },
     {
-      "t_seconds": 20.5,
-      "action": "point",
-      "target": "Name (filled by Fetch)",
-      "on_screen": "Name, description and logo were filled by Fetch — check them"
-    },
-    {
-      "t_seconds": 24.5,
+      "t_seconds": 36.8,
       "action": "scroll",
       "target": "down",
       "on_screen": "Description, logo and the one-line story"
     },
     {
-      "t_seconds": 26.1,
+      "t_seconds": 38.5,
       "action": "click",
       "target": "One-line story",
       "on_screen": "Clicked into One-line story"
     },
     {
-      "t_seconds": 29.7,
+      "t_seconds": 42.3,
       "action": "type",
       "target": "One-line story",
       "on_screen": "Typed a one-line story in our own words"
     },
     {
-      "t_seconds": 30.8,
+      "t_seconds": 43.9,
       "action": "point",
       "target": "Saved (top right)",
       "on_screen": "The hidden draft saves as you type — nothing is public"
     },
     {
-      "t_seconds": 35,
+      "t_seconds": 47.9,
       "action": "click",
       "target": "Next: Owner & proof",
-      "on_screen": "Step 2 · Owner & proof"
+      "on_screen": "Step 2 · Owner & proof — filled in from the check"
     },
     {
-      "t_seconds": 37.1,
-      "action": "click",
-      "target": "Owner / founder full name",
-      "on_screen": "Clicked into Owner / founder full name"
+      "t_seconds": 49,
+      "action": "point",
+      "target": "Owner (from the check)",
+      "on_screen": "Her name, the evidence and where she's based came from the check — check them"
     },
     {
-      "t_seconds": 38.6,
-      "action": "type",
-      "target": "Owner / founder full name",
-      "on_screen": "Typed the owner's full name (first and last)"
-    },
-    {
-      "t_seconds": 40.2,
+      "t_seconds": 53.7,
       "action": "click",
       "target": "Women-owned %",
       "on_screen": "Clicked into Women-owned %"
     },
     {
-      "t_seconds": 41,
+      "t_seconds": 54.5,
       "action": "type",
       "target": "Women-owned %",
       "on_screen": "Typed the women-owned share: 100"
     },
     {
-      "t_seconds": 42.9,
+      "t_seconds": 56.5,
       "action": "click",
-      "target": "Date verified",
-      "on_screen": "Date verified: the day you checked her ownership"
+      "target": "Set to today",
+      "on_screen": "Date verified: the day you checked her ownership — one click for today"
     },
     {
-      "t_seconds": 46.2,
-      "action": "select",
-      "target": "Evidence type",
-      "on_screen": "Chose the evidence type"
-    },
-    {
-      "t_seconds": 48.1,
-      "action": "click",
-      "target": "Reference link",
-      "on_screen": "Clicked into Reference link"
-    },
-    {
-      "t_seconds": 51,
-      "action": "type",
-      "target": "Reference link",
-      "on_screen": "Typed where we saw it: her About page"
-    },
-    {
-      "t_seconds": 52.9,
-      "action": "select",
-      "target": "Where she's based",
-      "on_screen": "Chose where she's based: Colorado"
-    },
-    {
-      "t_seconds": 54.6,
+      "t_seconds": 58.5,
       "action": "click",
       "target": "Founder's email",
       "on_screen": "Clicked into Founder's email"
     },
     {
-      "t_seconds": 57.1,
+      "t_seconds": 61.1,
       "action": "type",
       "target": "Founder's email",
       "on_screen": "Typed the founder's email (needed for the certification invitation)"
     },
     {
-      "t_seconds": 59.5,
+      "t_seconds": 63.7,
       "action": "click",
       "target": "Next: Shopping",
       "on_screen": "Step 3 · Shopping"
     },
     {
-      "t_seconds": 61.7,
+      "t_seconds": 65.9,
       "action": "click",
       "target": "Direct",
       "on_screen": "How clicks are paid: Direct (no affiliate network yet)"
     },
     {
-      "t_seconds": 62.5,
-      "action": "point",
-      "target": "Commission & terms (greyed)",
-      "on_screen": "Greyed for a team member: payout notes are the owner's"
-    },
-    {
-      "t_seconds": 66.1,
+      "t_seconds": 66.9,
       "action": "point",
       "target": "Ships from",
       "on_screen": "Ships from: same as where she's based"
     },
     {
-      "t_seconds": 70,
+      "t_seconds": 70.8,
       "action": "click",
       "target": "Next: Products",
       "on_screen": "Step 4 · Products: the 4 products Fetch found"
     },
     {
-      "t_seconds": 75,
+      "t_seconds": 75.9,
       "action": "point",
       "target": "Products table",
       "on_screen": "Each product gets a type and a why line; READY? shows when a row can publish"
     },
     {
-      "t_seconds": 79.2,
+      "t_seconds": 80.1,
       "action": "scroll",
       "target": "down",
       "on_screen": "The rows, each Ready"
     },
     {
-      "t_seconds": 80.6,
+      "t_seconds": 81.5,
       "action": "scroll",
       "target": "down",
       "on_screen": "Her category, under the table"
     },
     {
-      "t_seconds": 82.4,
+      "t_seconds": 83.3,
       "action": "click",
       "target": "Use it (category)",
       "on_screen": "Her category: used the suggestion"
     },
     {
-      "t_seconds": 85.7,
+      "t_seconds": 86.6,
       "action": "scroll",
       "target": "to the top",
       "on_screen": "Back to the top of step 4"
     },
     {
-      "t_seconds": 87.5,
+      "t_seconds": 88.4,
       "action": "click",
       "target": "Review & publish (step 5)",
       "on_screen": "Step 5 · Review & publish: everything in one list"
     },
     {
-      "t_seconds": 88.9,
-      "action": "point",
-      "target": "1 · Brand",
-      "on_screen": "Green is done; grey is optional"
-    },
-    {
-      "t_seconds": 91.7,
+      "t_seconds": 89.5,
       "action": "point",
       "target": "2 · Owner & proof",
-      "on_screen": "Owner & proof, all done"
+      "on_screen": "Owner and proof, all done"
     },
     {
-      "t_seconds": 95.4,
+      "t_seconds": 93.3,
       "action": "scroll",
       "target": "down",
       "on_screen": "Shopping, Products, and the certification choice"
     },
     {
-      "t_seconds": 96.2,
+      "t_seconds": 94.1,
       "action": "point",
       "target": "Owner certification",
       "on_screen": "Send the invitation to the founder after publishing (the usual choice)"
     },
     {
-      "t_seconds": 99.7,
-      "action": "point",
-      "target": "Publish",
-      "on_screen": "Publish: checks everything again, then the products go live and the brand becomes visible"
-    },
-    {
-      "t_seconds": 103.3,
+      "t_seconds": 98.6,
       "action": "click",
       "target": "Publish 4 products →",
       "on_screen": "Publishing…"
     },
     {
-      "t_seconds": 105.7,
+      "t_seconds": 101.1,
       "action": "scroll",
       "target": "to the top",
       "on_screen": "Published: the brand is live with 4 products"
     },
     {
-      "t_seconds": 106.8,
+      "t_seconds": 102.1,
       "action": "point",
       "target": "Result",
       "on_screen": "Done: 4 products published (in this demo nothing really went live)"
-    },
-    {
-      "t_seconds": 110.4,
-      "action": "point",
-      "target": "Live",
-      "on_screen": "The brand now shows as Live"
     }
   ]
 }

@@ -1,0 +1,205 @@
+{
+  "chapter": "05-check-her-first",
+  "recorded_at": "2026-10-22T14:56:55.545Z",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "device_scale_factor": 1,
+  "signed_in_as": "Team member (switch_editor) — pretend sign-in, fictional data",
+  "network": {
+    "answered_hosts": [
+      "127.0.0.1:5199"
+    ],
+    "outbound_attempts": [],
+    "refused_in_page": [],
+    "unanswered_mock_calls": [
+      "table select swap_brand_autofill",
+      "rpc admin_android_live",
+      "rpc admin_site_hook_state"
+    ]
+  },
+  "page_errors": [],
+  "steps": [
+    {
+      "t_seconds": 2.7,
+      "action": "open",
+      "target": "/admin",
+      "on_screen": "The page opens"
+    },
+    {
+      "t_seconds": 2.7,
+      "action": "look",
+      "target": "Admin → Overview",
+      "on_screen": "Start in the admin"
+    },
+    {
+      "t_seconds": 4.8,
+      "action": "click",
+      "target": "The Switch (menu)",
+      "on_screen": "The Switch opens, with its tabs across the top"
+    },
+    {
+      "t_seconds": 6.6,
+      "action": "click",
+      "target": "Add a brand (tab)",
+      "on_screen": "Add a brand starts with Step 0 · Check her"
+    },
+    {
+      "t_seconds": 7.3,
+      "action": "point",
+      "target": "Steps 1–5 locked",
+      "on_screen": "Steps 1 to 5 stay locked until the check passes — or until she's verified by hand"
+    },
+    {
+      "t_seconds": 10.4,
+      "action": "point",
+      "target": "Check her first",
+      "on_screen": "The Screen reads only free sources: her own pages, Wikipedia and SEC filings. About a third of a cent"
+    },
+    {
+      "t_seconds": 14.7,
+      "action": "click",
+      "target": "Her website",
+      "on_screen": "Clicked into Her website"
+    },
+    {
+      "t_seconds": 16.7,
+      "action": "type",
+      "target": "Her website",
+      "on_screen": "Typed a website that's already in The Switch"
+    },
+    {
+      "t_seconds": 18.9,
+      "action": "click",
+      "target": "Check her",
+      "on_screen": "First it looks for her in The Switch — free"
+    },
+    {
+      "t_seconds": 19.9,
+      "action": "point",
+      "target": "Already in The Switch",
+      "on_screen": "Already here: it stops, and nothing is spent. Open it takes you to that brand"
+    },
+    {
+      "t_seconds": 24.3,
+      "action": "click",
+      "target": "Her website",
+      "on_screen": "Clicked into Her website"
+    },
+    {
+      "t_seconds": 26.6,
+      "action": "type",
+      "target": "Her website",
+      "on_screen": "Typed a new brand's website"
+    },
+    {
+      "t_seconds": 28.7,
+      "action": "click",
+      "target": "Check her",
+      "on_screen": "Not in The Switch yet — the Screen reads her site"
+    },
+    {
+      "t_seconds": 33.9,
+      "action": "point",
+      "target": "Result: Can't tell",
+      "on_screen": "Can't tell: her site names a founder, but nothing says who owns it today"
+    },
+    {
+      "t_seconds": 37.1,
+      "action": "point",
+      "target": "Locked",
+      "on_screen": "Onboarding stays locked. Nothing is lost — it waits in Brand check"
+    },
+    {
+      "t_seconds": 39.8,
+      "action": "point",
+      "target": "Free checks",
+      "on_screen": "Six free checks. Each opens in your own browser: her About page, Google, certifications, Instagram, LinkedIn"
+    },
+    {
+      "t_seconds": 43.5,
+      "action": "point",
+      "target": "Cost",
+      "on_screen": "This check cost a third of a cent. The full check, about seven cents, is only ever a button"
+    },
+    {
+      "t_seconds": 48,
+      "action": "click",
+      "target": "I verified her myself…",
+      "on_screen": "Found the proof yourself? Say so here — it's logged with your name, the time and why"
+    },
+    {
+      "t_seconds": 49.9,
+      "action": "select",
+      "target": "What you relied on",
+      "on_screen": "Chose what you relied on"
+    },
+    {
+      "t_seconds": 51.8,
+      "action": "click",
+      "target": "Where you saw it",
+      "on_screen": "Clicked into Where you saw it"
+    },
+    {
+      "t_seconds": 54,
+      "action": "type",
+      "target": "Where you saw it",
+      "on_screen": "A note alone isn't proof"
+    },
+    {
+      "t_seconds": 56.4,
+      "action": "click",
+      "target": "Your note",
+      "on_screen": "Clicked into Your note"
+    },
+    {
+      "t_seconds": 59.7,
+      "action": "type",
+      "target": "Your note",
+      "on_screen": "Typed a short note"
+    },
+    {
+      "t_seconds": 60.3,
+      "action": "point",
+      "target": "Verify (disabled)",
+      "on_screen": "The button stays off, and says why: a link or a named document is needed"
+    },
+    {
+      "t_seconds": 65.3,
+      "action": "click",
+      "target": "Where you saw it",
+      "on_screen": "Clicked into Where you saw it"
+    },
+    {
+      "t_seconds": 69.3,
+      "action": "type",
+      "target": "Where you saw it",
+      "on_screen": "Pasted the link to what you found"
+    },
+    {
+      "t_seconds": 70.2,
+      "action": "point",
+      "target": "Verify (ready)",
+      "on_screen": "Now it can go"
+    },
+    {
+      "t_seconds": 73.5,
+      "action": "click",
+      "target": "Verify and start onboarding →",
+      "on_screen": "Logged — and onboarding opens"
+    },
+    {
+      "t_seconds": 77,
+      "action": "point",
+      "target": "Check her: verified",
+      "on_screen": "Step 0 shows how it opened. The other steps are open now"
+    },
+    {
+      "t_seconds": 79.9,
+      "action": "point",
+      "target": "Date verified is yours",
+      "on_screen": "The date verified is still yours to set, in Owner and proof"
+    }
+  ]
+}

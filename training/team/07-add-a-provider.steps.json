@@ -1,6 +1,6 @@
 {
   "chapter": "07-add-a-provider",
-  "recorded_at": "2026-10-22T12:02:34.133Z",
+  "recorded_at": "2026-10-22T15:00:24.390Z",
   "viewport": {
     "width": 1920,
     "height": 1080
@@ -13,201 +13,199 @@
     ],
     "outbound_attempts": [],
     "refused_in_page": [],
-    "unanswered_mock_calls": []
+    "unanswered_mock_calls": [
+      "table select swap_brand_autofill",
+      "rpc admin_android_live",
+      "rpc admin_site_hook_state"
+    ]
   },
   "page_errors": [],
   "steps": [
     {
-      "t_seconds": 2.5,
+      "t_seconds": 2.6,
       "action": "open",
       "target": "/admin",
       "on_screen": "The page opens"
     },
     {
-      "t_seconds": 2.5,
+      "t_seconds": 2.6,
       "action": "look",
       "target": "Admin → Overview",
       "on_screen": "Start in the admin"
     },
     {
-      "t_seconds": 4.6,
+      "t_seconds": 4.7,
       "action": "click",
       "target": "The Switch (menu)",
       "on_screen": "The Switch opens"
     },
     {
-      "t_seconds": 6.6,
+      "t_seconds": 6.8,
       "action": "click",
       "target": "Providers (tab)",
       "on_screen": "Providers: women-owned service businesses, verified like brands"
     },
     {
-      "t_seconds": 7.4,
-      "action": "point",
-      "target": "Provider list",
-      "on_screen": "The list: each provider, Draft or Live, and Verified"
-    },
-    {
-      "t_seconds": 11.6,
+      "t_seconds": 8.5,
       "action": "click",
       "target": "Add provider",
-      "on_screen": "The new provider form"
+      "on_screen": "Add provider starts with Step 0 · Check her too"
     },
     {
-      "t_seconds": 13.6,
+      "t_seconds": 10.6,
       "action": "click",
       "target": "Business name",
       "on_screen": "Clicked into Business name"
     },
     {
-      "t_seconds": 15.7,
+      "t_seconds": 12.7,
       "action": "type",
       "target": "Business name",
-      "on_screen": "Typed the business name; the slug fills itself"
+      "on_screen": "Typed the business name"
     },
     {
-      "t_seconds": 17.4,
-      "action": "select",
-      "target": "Kind of service",
-      "on_screen": "Chose the kind of service: Bookkeeping (her primary kind)"
-    },
-    {
-      "t_seconds": 19,
-      "action": "click",
-      "target": "What she does",
-      "on_screen": "Clicked into What she does"
-    },
-    {
-      "t_seconds": 22.4,
-      "action": "type",
-      "target": "What she does",
-      "on_screen": "Typed her specialties, comma-separated"
-    },
-    {
-      "t_seconds": 24.5,
-      "action": "click",
-      "target": "Her story",
-      "on_screen": "Clicked into Her story"
-    },
-    {
-      "t_seconds": 28.7,
-      "action": "type",
-      "target": "Her story",
-      "on_screen": "Her story — only what she wrote or approved"
-    },
-    {
-      "t_seconds": 30.5,
-      "action": "scroll",
-      "target": "down",
-      "on_screen": "Where she serves, and how to reach her"
-    },
-    {
-      "t_seconds": 32.1,
+      "t_seconds": 14.3,
       "action": "click",
       "target": "City",
       "on_screen": "Clicked into City"
     },
     {
-      "t_seconds": 33.5,
+      "t_seconds": 15.7,
       "action": "type",
       "target": "City",
       "on_screen": "Typed her city"
     },
     {
-      "t_seconds": 35.2,
+      "t_seconds": 17.4,
       "action": "select",
       "target": "State",
-      "on_screen": "Chose her state: CO — Colorado"
+      "on_screen": "Chose her state: Colorado — it tells her apart from others with the same name"
     },
     {
-      "t_seconds": 36.9,
+      "t_seconds": 19,
+      "action": "select",
+      "target": "Kind of service",
+      "on_screen": "Chose the kind of service (optional here) — or “+ New kind…”"
+    },
+    {
+      "t_seconds": 20,
+      "action": "point",
+      "target": "Her website (optional)",
+      "on_screen": "Her website, if she has one. Without it, one small search finds it by name and city"
+    },
+    {
+      "t_seconds": 24.4,
       "action": "click",
-      "target": "Her site",
-      "on_screen": "Clicked into Her site"
+      "target": "Check her",
+      "on_screen": "The duplicate check, then the Screen"
     },
     {
-      "t_seconds": 39.2,
+      "t_seconds": 29.3,
+      "action": "point",
+      "target": "Likely women-owned",
+      "on_screen": "Likely women-owned — unlocked. You still confirm her ownership"
+    },
+    {
+      "t_seconds": 33.5,
+      "action": "click",
+      "target": "Start onboarding →",
+      "on_screen": "The provider form opens on her hidden draft, filled in from the check"
+    },
+    {
+      "t_seconds": 35.3,
+      "action": "point",
+      "target": "From the check",
+      "on_screen": "Name, kind, city and state, her site and the evidence came from the check"
+    },
+    {
+      "t_seconds": 39.8,
+      "action": "click",
+      "target": "What she does",
+      "on_screen": "Clicked into What she does"
+    },
+    {
+      "t_seconds": 43.2,
       "action": "type",
-      "target": "Her site",
-      "on_screen": "Typed her website (a way to reach her)"
+      "target": "What she does",
+      "on_screen": "Typed her specialties, comma-separated"
     },
     {
-      "t_seconds": 41,
+      "t_seconds": 44.8,
+      "action": "click",
+      "target": "Her story",
+      "on_screen": "Clicked into Her story"
+    },
+    {
+      "t_seconds": 49,
+      "action": "type",
+      "target": "Her story",
+      "on_screen": "Her story — only what she wrote or approved"
+    },
+    {
+      "t_seconds": 50.8,
       "action": "scroll",
       "target": "down",
       "on_screen": "Ownership: admin-only, and needed to publish"
     },
     {
-      "t_seconds": 41.5,
+      "t_seconds": 51.7,
       "action": "point",
       "target": "Can't publish yet",
-      "on_screen": "Published is greyed until everything is in — the line under it says exactly what's missing"
+      "on_screen": "Published stays off until everything is in — the line under it says what's missing"
     },
     {
-      "t_seconds": 45.8,
+      "t_seconds": 55.9,
       "action": "click",
       "target": "Owner's full name",
       "on_screen": "Clicked into Owner's full name"
     },
     {
-      "t_seconds": 47.1,
+      "t_seconds": 57.3,
       "action": "type",
       "target": "Owner's full name",
       "on_screen": "Typed the owner's full name"
     },
     {
-      "t_seconds": 49,
+      "t_seconds": 59.1,
       "action": "click",
       "target": "Verified on",
       "on_screen": "Verified on: the day you checked"
     },
     {
-      "t_seconds": 51.6,
-      "action": "select",
-      "target": "Evidence type",
-      "on_screen": "Chose the evidence type"
+      "t_seconds": 60.5,
+      "action": "point",
+      "target": "Evidence (from the check)",
+      "on_screen": "The evidence link came from the check"
     },
     {
-      "t_seconds": 53.5,
-      "action": "click",
-      "target": "Evidence source",
-      "on_screen": "Clicked into Evidence source"
-    },
-    {
-      "t_seconds": 56.1,
-      "action": "type",
-      "target": "Evidence source",
-      "on_screen": "Typed where we saw it"
-    },
-    {
-      "t_seconds": 56.9,
+      "t_seconds": 63.1,
       "action": "point",
       "target": "Published",
       "on_screen": "Published can be ticked now: every requirement is met"
     },
     {
-      "t_seconds": 60.4,
+      "t_seconds": 66.5,
       "action": "click",
       "target": "Published (tick)",
       "on_screen": "Ticked Published"
     },
     {
-      "t_seconds": 62.6,
+      "t_seconds": 68.7,
       "action": "click",
-      "target": "Add",
-      "on_screen": "Saved: “Provider added and published”"
+      "target": "Save",
+      "on_screen": "Saved"
     },
     {
-      "t_seconds": 65.3,
+      "t_seconds": 71.7,
       "action": "scroll",
       "target": "to the top",
       "on_screen": "The list, with the new provider"
     },
     {
-      "t_seconds": 66.3,
+      "t_seconds": 72.8,
       "action": "point",
       "target": "Willow Bend Bookkeeping",
-      "on_screen": "The new provider is in the list: Live and Verified (in this demo nothing really went live)"
+      "on_screen": "The new provider is in the list (in this demo nothing really went live)"
     }
   ]
 }
